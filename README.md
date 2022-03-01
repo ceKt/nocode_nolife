@@ -9,3 +9,4 @@ One code per day !
 |20220226|zoomauto.py|zoomに自動で参加（オプションでOBSで自動録画）|
 |20220227|num2str.js|数字を英語の読みで返してくれるよ。|
 |20220228|polybius.py|ポリュビオス暗号を実装する。|
+|20220301|decodepolybius.py|ポリュビオス暗号を複合化する|
