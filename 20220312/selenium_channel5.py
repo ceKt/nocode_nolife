@@ -2,9 +2,6 @@ from re import search
 from selenium.webdriver.chrome.service import Service
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
-import time
-import datetime
-import requests
 
 def main(keyword):
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
