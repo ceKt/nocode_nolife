@@ -21,4 +21,4 @@ One code per day !
 |20220310|---|さぼり|
 |20220311|node_gspread.js|nodeでスプレッドシートに接続|
 |20220312|selenium_channel5.py|seleniumを使って５ちゃんねるをスクレイピング|
-|---|---|Unityでスマホアプリを作っていた。（https://play.google.com/store/apps/details?id=com.youlcray.kioku）|
+|---|---|Unityでスマホアプリを作っていた。（https://play.google.com/store/apps/details?id=com.youlcray.kioku ）|
