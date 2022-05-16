@@ -1,6 +1,6 @@
 # nocode_nolife
 One code per day !  
-一日一つ何かしら書いていく予定。  
+ぼちぼち何かしら書いていく予定。  
 
 |dir|code|description|
 |---|----|-----------|
